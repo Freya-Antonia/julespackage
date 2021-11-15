@@ -27,3 +27,10 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# Colleagues' packages
+git+https://github.com/hdavis44/questions_three
+git+https://github.com/LucaVanTichelen/mypackage
+git+https://github.com/gelhteag/hello_wagon
+git+https://github.com/ypzhangescp/yiping
+git+https://github.com/Freya-Antonia/words_of_wisdom
